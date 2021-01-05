@@ -1,0 +1,5 @@
+Resolusi
+- Belajar Git dan Github dalam 3 hari
+- Menguasai HTML, CSS, Javascript, PHP, dan Java dalam 6 bulan kedepan
+- Menguasai seluruh materi yang di jelaskan saat PKL
+- Menguasai CRUD
